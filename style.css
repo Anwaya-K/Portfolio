@@ -44,22 +44,22 @@ section {
 
 /* Background colors for different sections */
 .background-blue {
-    background-color: #3498db;
+    background-color: #3490db;
     color: #fff;
+}
+
+.background-orange {
+    background-color: #fc8005;
+    color: #2c2929;
 }
 
 .background-green {
-    background-color: #2ecc71;
-    color: #fff;
+    background-color: #a2f10f;
+    color: #1b1a1a;
 }
 
-.background-yellow {
-    background-color: #f1c40f;
-    color: #333;
-}
-
-.background-purple {
-    background-color: #9b59b6;
+.background-blue {
+    background-color: #8510f3ef;
     color: #fff;
 }
 
